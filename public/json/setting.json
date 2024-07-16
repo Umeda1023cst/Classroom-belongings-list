@@ -1,0 +1,48 @@
+{
+    "email": "",
+    "school_times": {
+        "Monday": "06:50",
+        "Tuesday": "06:50",
+        "Wednesday": "06:50",
+        "Thursday": "06:50",
+        "Friday": "08:00",
+        "Saturday": "08:00"
+    },
+    "notification_times": {
+        "Monday": "06:20",
+        "Tuesday": "06:20",
+        "Wednesday": "06:20",
+        "Thursday": "06:20",
+        "Friday": "07:30",
+        "Saturday": "08:00"
+    },
+    "items_list": {
+        "Monday": [
+            "教科書_1",
+            "教科書_2",
+            "ノート_1"
+        ],
+        "Tuesday": [
+            "教科書_3",
+            "教科書_4",
+            "教科書_5"
+        ],
+        "Wednesday": [
+            "ノートPC",
+            "参考書_1"
+        ],
+        "Thursday": [
+            "教科書_5",
+            "参考書_2",
+            "教科書_6"
+        ],
+        "Friday": [
+            "aaaa"
+        ],
+        "Saturday": [
+            ""
+        ]
+    },
+    "body_template": "Today's items:\n{items}",
+    "subject": "Today's Items List"
+}
